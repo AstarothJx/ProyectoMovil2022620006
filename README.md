@@ -74,5 +74,7 @@ Este proyecto se desarrolló con fines educativos y no contempla mantenimiento c
 ## 📬 Contacto
 
 **Almaraz Paulín Lisset Ameyalli** – [joshuacasram@outlook.com](mailto:joshuacasram@outlook.com)
+
 **Joshua Castro Ramírez** – [joshuacasram@outlook.com](mailto:joshuacasram@outlook.com)
+
 **Diaz Hidalgo Fernando** – [ferdiazhidalgo1105@gmail.com](mailto:ferdiazhidalgo1105@gmail.com)
