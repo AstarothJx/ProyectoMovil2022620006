@@ -62,7 +62,7 @@ Ofrecer una plataforma colaborativa donde los usuarios puedan planificar sus via
 
 ## 📬 Contacto
 
-**Lisset Ameyalli Almaraz Paulín** – [joshuacasram@outlook.com](mailto:joshuacasram@outlook.com)
+**Lisset Ameyalli Almaraz Paulín** – [lisame.laap@gmail.com](mailto:lisame.laap@gmail.com)
 
 **Joshua Castro Ramírez** – [joshuacasram@outlook.com](mailto:joshuacasram@outlook.com)
 
