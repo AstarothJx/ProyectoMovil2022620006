@@ -1,16 +1,17 @@
-## ProyectoMovil2022620006
-# Tripmates
+# ProyectoMovil2022620006
+
 Repositorio del proyecto final de Programación Móvil:
- [AstarothJx/ProyectoMovil2022620006](https://github.com/AstarothJx/ProyectoMovil2022620006/tree/main)
+[AstarothJx/ProyectoMovil2022620006](https://github.com/AstarothJx/ProyectoMovil2022620006/tree/main)
+
 ## 📱 Descripción
 
 **Tripmates** es una aplicación Android desarrollada como proyecto escolar, cuyo propósito principal es gestionar viajes y facilitar el control de gastos, itinerarios y listas de empaque. Ofrece sincronización de datos entre dispositivos, permitiendo que varios usuarios colaboren y compartan la información de un mismo viaje en tiempo real.
 
-## 🧠 Propósito del Proyecto
+## 🎯 Objetivo General
 
-Brindar una herramienta integral para planificar y administrar viajes de forma colaborativa, donde los usuarios puedan llevar control de gastos, crear itinerarios diarios y gestionar dinámicamente su lista de empaque.
+Ofrecer una plataforma colaborativa donde los usuarios puedan planificar sus viajes y compartir información de gastos, itinerarios y equipaje de manera eficiente y sincronizada.
 
-## ⚙️ Tecnologías Utilizadas
+## 🛠️ Stack Tecnológico
 
 * **Lenguaje principal:** Kotlin
 * **UI:** Jetpack Compose
@@ -18,63 +19,51 @@ Brindar una herramienta integral para planificar y administrar viajes de forma c
 * **Backend y sincronización:** Servicios REST en PHP conectados a MySQL
 * **Manejo de sesiones y modelos:** Objetos de dominio en Kotlin
 
-## 📲 Requisitos del Sistema
+## 💻 Requisitos
 
 * Android 14.0 o superior
 * Android Studio Ladybug o superior
 * JDK 11 o superior
 
-## 🔧 Instalación y Configuración
-
-*En desarrollo.* Se planea documentar próximamente los pasos estándar:
+## ⚙️ Configuración e Instalación
 
 1. Clonar el repositorio:
 
    ```bash
    git clone https://github.com/AstarothJx/ProyectoMovil2022620006.git
    ```
-2. Abrir el proyecto en Android Studio.
-3. Configurar la URL del servicio PHP en `Constantes.kt`.
-4. Sincronizar dependencias Gradle.
-5. Ejecutar la app en emulador o dispositivo real.
+2. Abrir en Android Studio.
+3. Actualizar la URL del API en `Constantes.kt`.
+4. Sincronizar Gradle.
+5. Ejecutar en emulador o dispositivo.
 
-## 🧩 Funcionalidades Principales
+## ✨ Características Principales
 
-* Registro y autenticación de usuarios.
-* Creación, edición y eliminación de viajes.
-* Registro de gastos asociados a cada viaje.
-* Planificación de itinerarios por día.
-* Lista de empaque interactiva con marcado de elementos.
-* Sincronización de datos entre dispositivos en tiempo real.
+* Gestión de usuarios (registro y login).
+* Creación, edición y borrado de viajes.
+* Registro y seguimiento de gastos.
+* Planificación de itinerarios diarios.
+* Checklist de empaque interactivo.
+* Sincronización en tiempo real.
 
-## 🗄️ Gestión de Datos
+## 💾 Estructura de Datos
 
-* **Persistencia local:** SQLite (`DBHelper.kt`).
-* **Modelos:** `Usuario`, `Viaje`, `Gasto`, `ItemEmpaque`, `Itinerario`, `Sesion`.
+* **Persistencia local:** SQLite (DBHelper.kt).
+* **Modelos:** Usuario, Viaje, Gasto, ItemEmpaque, Itinerario, Sesion.
 * **CRUD:** Peticiones HTTP a servicios PHP.
 * **Formato de datos:** JSON.
 
-## 🔐 Seguridad
+## ✅ Validaciones y Tests
 
-*En proceso de implementación.*
-Se planea añadir autenticación por token y validaciones adicionales en el backend.
-
-## 🧪 Pruebas Realizadas
-
-* Creación y sincronización de viajes.
-* Registro de gastos desde distintos dispositivos.
-* Edición y eliminación de ítems de empaque.
-* Planificación de itinerarios y actualización en tiempo real.
-* Cambios de preferencias visuales (modo oscuro/claro).
-
-## 🛠️ Mantenimiento y Actualizaciones
-
-Este proyecto se desarrolló con fines educativos y no contempla mantenimiento continuo. El código queda disponible como referencia para estudiantes y desarrolladores.
+* Verificación de CRUD en viajes y gastos.
+* Sincronización multiusuario en tiempo real.
+* Funcionalidad completa de itinerarios y empaque.
+* Ajuste de UI (modo oscuro/claro).
 
 ## 📬 Contacto
 
-**Almaraz Paulín Lisset Ameyalli** – [joshuacasram@outlook.com](mailto:joshuacasram@outlook.com)
+**Lisset Ameyalli Almaraz Paulín** – [joshuacasram@outlook.com](mailto:joshuacasram@outlook.com)
 
 **Joshua Castro Ramírez** – [joshuacasram@outlook.com](mailto:joshuacasram@outlook.com)
 
-**Diaz Hidalgo Fernando** – [ferdiazhidalgo1105@gmail.com](mailto:ferdiazhidalgo1105@gmail.com)
+**Fernando Diaz Hidalgo** – [ferdiazhidalgo1105@gmail.com](mailto:ferdiazhidalgo1105@gmail.com)
