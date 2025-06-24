@@ -1,7 +1,7 @@
 ## ProyectoMovil2022620006
 # Tripmates
 Repositorio del proyecto final de Programación Móvil:
- AstarothJx/ProyectoMovil2022620006
+ [AstarothJx/ProyectoMovil2022620006](https://github.com/AstarothJx/ProyectoMovil2022620006/tree/main)
 ## 📱 Descripción
 
 **Tripmates** es una aplicación Android desarrollada como proyecto escolar, cuyo propósito principal es gestionar viajes y facilitar el control de gastos, itinerarios y listas de empaque. Ofrece sincronización de datos entre dispositivos, permitiendo que varios usuarios colaboren y compartan la información de un mismo viaje en tiempo real.
